@@ -23,8 +23,8 @@ author:
   # Biographic information
   avatar           : "photo.jpg"
   name             : "Jiaqi Zhao"
-  pronouns         : "he/him"  
-  bio              : "PhD researcher in Industrial Engineering and Operational Research"
+  pronouns         : #"he/him"  
+  bio              : "PhD researcher of Industrial Engineering and Operations Research"
   location         : "Kortrijk, Belgium"
   employer         : "Ghent University"
   uri              : # URL
