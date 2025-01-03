@@ -21,7 +21,7 @@ Education
 ======
 * Ph.D in Industrial Engineering and Operations Research, Ghent University, 2024
 * M.S. in Mechanical Engineering, Tianjin University, 2014
-* B.S. in Mechanical Design, Manufacturing and Automation, 2011
+* B.S. in Mechanical Design, Manufacturing and Automation, Tianjin University, 2011
   
 Publications
 ======
