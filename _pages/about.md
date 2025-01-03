@@ -11,7 +11,7 @@ Work experience
 ======
 * 2019-now: Ph.D researcher
   * Industrial Systems Engineering @ Ghent University
-  * Research topic: Semantic Interoperability for 3D Virtual Commissioning Applications
+  * Research Topic: Semantic Interoperability for 3D Virtual Commissioning Applications
   * Supervisor: Professor El-Houssaine Aghezzaf and Professor Johannes Cottyn
 * 2014-2019: Engineer
   * China Aerospace Science and Technology Corporation
