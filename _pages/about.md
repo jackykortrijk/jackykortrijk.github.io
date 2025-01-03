@@ -1,30 +1,25 @@
 ---
 permalink: /
-#title: "Welcome to my personal website!"
-#author_profile: true
+title: "Welcome to my academic website!"
+author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
+* 2019-now: Ph.D researcher
+  * Industrial Systems Engineering @ Ghent University
+  * Research topic: Semantic Interoperability for 3D Virtual Commissioning Applications
   * Supervisor: Professor Hub
+* 2014-2019: Engineer
+  * China Academy of Space Technology
+  * Lead Engineer in Digital Product Design and Manufacturing
+ 
+Education
+======
+* Ph.D in Industrial Engineering and Operations Research, Ghent University, 2024
+* M.S. in Mechanical Engineering, Tianjin University, 2014
+* B.S. in Mechanical Design, Manufacturing and Automation, 2011
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
