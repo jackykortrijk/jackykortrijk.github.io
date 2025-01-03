@@ -1,13 +1,13 @@
 ---
-title: "Paper Title Number 4"
+title: "An extension of the Core Manufacturing Simulation Data standard to enhance the interoperability for discrete event simulation"
 collection: publications
 category: conferences
 permalink: /publication/2024-02-17-paper-title-number-4
 excerpt: 'This paper is about fixing template issue #693.'
-date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
+date: 2024-11-27
+venue: 'Procedia CIRP'
+paperurl: 'https://doi.org/10.1016/j.procir.2024.10.293'
 citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+Discrete event simulation are vital in building a manufacturing system. The emergence of the industrial metaverse increases the collaboration needs between simulation engineers. Data reuse between different simulation software applications could significantly lower manual modeling efforts and shorten the overall time of system construction. To achieve this, interoperability in discrete event simulation is a prerequisite. Core Manufacturing Simulation Data (CMSD) is a promising standard for exchanging discrete event simulation models. However, the current CMSD standard is insufficient to achieve full-scope interoperability between discrete event simulation software applications. In this paper, a case-driven iterative approach is applied to extend the CMSD standard. An initial extension is developed based on a first iteration. A method for exchanging models between different discrete event simulation software applications via the extension is proposed. With this method, the interoperability performance of the extension is evaluated by exchanging a representative set of discrete event simulation models between two simulation software applications, FlexSim and Visual Components, via self-developed “Import” and “Export” plug-ins. The result shows that 57.5% more attributes can be converted via the extension than the original CMSD standard.
