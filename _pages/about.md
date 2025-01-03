@@ -19,7 +19,7 @@ Work experience
  
 Education
 ======
-* Ph.D in Industrial Engineering and Operations Research, Ghent University, 2024
+* Ph.D in Industrial Engineering and Operations Research, Ghent University, 2025
 * M.S. in Mechanical Engineering, Tianjin University, 2014
 * B.S. in Mechanical Design, Manufacturing and Automation, Tianjin University, 2011
   
