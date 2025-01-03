@@ -14,7 +14,7 @@ Work experience
   * Research topic: Semantic Interoperability for 3D Virtual Commissioning Applications
   * Supervisor: Professor El-Houssaine Aghezzaf and Professor Johannes Cottyn
 * 2014-2019: Engineer
-  * China Academy of Space Technology
+  * China Aerospace Science and Technology Corporation
   * Lead Engineer in Digital Product Design and Manufacturing
  
 Education
