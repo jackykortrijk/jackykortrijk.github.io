@@ -13,7 +13,7 @@ Work experience
   * Ghent University, Flanders Make @ UGent ISyE
   * Research Field: Semantic Interoperability, Virtual Commissioning, Digital Twin, 3D-based Emulation, Discrete Event Simulation, AutomationML, Collada, Core Manufacturing Simulation Data, Data Exchange. 
 * 2014-2019: Engineer
-  * China Aerospace Science and Technology Corporation
+  * China Academy of Space Technology
   * Research Field: Digital Product Design and Manufacturing
  
 Education
