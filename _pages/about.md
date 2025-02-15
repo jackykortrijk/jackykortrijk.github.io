@@ -9,10 +9,10 @@ redirect_from:
 
 Work experience
 ======
-* 2019-now: Researcher
+* 2019 - now: Researcher
   * Ghent University, Flanders Make @ UGent - ISyE
   * Research Fields: Semantic Interoperability, Virtual Commissioning, Digital Twin, 3D-based Emulation, Discrete Event Simulation, AutomationML, Collada, Core Manufacturing Simulation Data, Data Exchange. 
-* 2014-2019: Engineer
+* 2014 - 2019: Engineer
   * China Academy of Space Technology
   * Research Fields: Digital Product Design and Manufacturing.
  
