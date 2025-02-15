@@ -23,11 +23,11 @@ author:
   # Biographic information
   avatar           : "photo.jpg"
   name             : "dr. ir. Jiaqi Zhao"
-  pronouns         : #"he/him"  
+  pronouns         : "he/him"  
   bio              : "Postdoctoral Researcher"
   location         : "Kortrijk, Belgium"
   employer         : "Ghent University"
-  uri              : # URL
+  uri              : "https://research.ugent.be/web/person/jiaqi-zhao-0/en"
   email            : "jiaqi.zhao@ugent.be" 
 
   # Academic websites
