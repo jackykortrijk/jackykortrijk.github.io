@@ -26,6 +26,6 @@ Education
   
 Publications
 ======
-  <ul style="width: 500px; height: 300px; overflow-y: auto;">{% for post in site.publications reversed %}
+  <ul style="width: 3000px; height: 300px; overflow-y: auto;">{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
