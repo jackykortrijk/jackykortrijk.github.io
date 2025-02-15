@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Jiaqi Zhao's academic website."
+#title: "Jiaqi Zhao's academic website."
 author_profile: true
 redirect_from: 
   - /about/
