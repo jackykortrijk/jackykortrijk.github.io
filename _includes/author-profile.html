@@ -62,6 +62,9 @@
       {% if author.sciprofiles %}
         <li><a href="{{ author.sciprofiles }}"><i class="fas fa-fw fa-flask icon-pad-right" aria-hidden="true"></i>Sciprofiles</a></li>
       {% endif %}
+      {% if author.loop %}
+        <li><a href="{{ author.loop }}"><i class="fas fa-fw fa-infinity icon-pad-right" aria-hidden="true"></i>Loop</a></li>
+      {% endif %}
       {% if author.researchgate %}
         <li><a href="{{ author.researchgate }}"><i class="fab fa-fw fa-researchgate icon-pad-right" aria-hidden="true"></i>ResearchGate</a></li>
       {% endif %}
